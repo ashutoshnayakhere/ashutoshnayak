@@ -1,6 +1,9 @@
 ### Hi there 👋, i am Ashutosh Nayak
 #### Designer and Developer
-![Designer and Developer]([https://twitter.com/Ashutoshnayak97/status/1250380745446572033/photo/1](https://pbs.twimg.com/media/EVo-pteUEAIRPrb?format=jpg&name=large))
+![Designer and Developer](https://media.licdn.com/dms/image/D4D22AQHdM5K0YcwpfA/feedshare-shrink_800/0/1683168473186?e=1686182400&v=beta&t=W9PZDq_AzANXd4s5n-vscdPtXRIab_DnM5dkglV04A0)
+(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+
 
 I'm Ashutosh Nayak from India , and I do design and development . 
 I really enjoy learning languages and frameworks like React, Node js  as well as work in  Wordpress . I also enjoy wireframing, ui , ux and design in general.
