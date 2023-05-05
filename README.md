@@ -1,13 +1,5 @@
 ### Hi there 👋, i am Ashutosh Nayak
 #### Designer and Developer
-![Designer and Developer](https://pbs.twimg.com/profile_banners/1245760529651486721/1599593874/1500x500)
-(https://pbs.twimg.com/media/EVo-pteUEAIRPrb?format=jpg&name=large)
-(https://media.licdn.com/dms/image/D4D22AQHdM5K0YcwpfA/feedshare-shrink_800/0/1683168473186?e=1686182400&v=beta&t=W9PZDq_AzANXd4s5n-vscdPtXRIab_DnM5dkglV04A0)
-
-
-
-(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 
 
 I'm Ashutosh Nayak from India , and I do design and development . 
