@@ -1,6 +1,6 @@
 ### Hi there 👋, i am Ashutosh Nayak
 #### Designer and Developer
-
+ 
 
 I'm Ashutosh Nayak from India , and I do design and development . 
 I really enjoy learning languages and frameworks like React, Node js  as well as work in  Wordpress . I also enjoy wireframing, ui , ux and design in general.
